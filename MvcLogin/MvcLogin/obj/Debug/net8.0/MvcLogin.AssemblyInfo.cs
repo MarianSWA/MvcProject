@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MvcLogin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+082ea2ed27444621e788d7cf8df3f1d820283b3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MvcLogin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MvcLogin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

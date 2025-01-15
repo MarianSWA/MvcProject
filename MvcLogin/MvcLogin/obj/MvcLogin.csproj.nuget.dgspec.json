@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/marian/Projects/CourseProjects/MvcLogin/MvcLogin/MvcLogin.csproj": {}
+    "/Users/marian/Projects/MvcProject/MvcLogin/MvcLogin/MvcLogin.csproj": {}
   },
   "projects": {
-    "/Users/marian/Projects/CourseProjects/MvcLogin/MvcLogin/MvcLogin.csproj": {
+    "/Users/marian/Projects/MvcProject/MvcLogin/MvcLogin/MvcLogin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marian/Projects/CourseProjects/MvcLogin/MvcLogin/MvcLogin.csproj",
+        "projectUniqueName": "/Users/marian/Projects/MvcProject/MvcLogin/MvcLogin/MvcLogin.csproj",
         "projectName": "MvcLogin",
-        "projectPath": "/Users/marian/Projects/CourseProjects/MvcLogin/MvcLogin/MvcLogin.csproj",
+        "projectPath": "/Users/marian/Projects/MvcProject/MvcLogin/MvcLogin/MvcLogin.csproj",
         "packagesPath": "/Users/marian/.nuget/packages/",
-        "outputPath": "/Users/marian/Projects/CourseProjects/MvcLogin/MvcLogin/obj/",
+        "outputPath": "/Users/marian/Projects/MvcProject/MvcLogin/MvcLogin/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/marian/.nuget/NuGet/NuGet.Config"

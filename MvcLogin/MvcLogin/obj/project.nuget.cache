@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VGRnGRVofO0=",
+  "dgSpecHash": "Aqcz+f5MeFc=",
   "success": true,
-  "projectFilePath": "/Users/marian/Projects/CourseProjects/MvcLogin/MvcLogin/MvcLogin.csproj",
+  "projectFilePath": "/Users/marian/Projects/MvcProject/MvcLogin/MvcLogin/MvcLogin.csproj",
   "expectedPackageFiles": [
     "/Users/marian/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/marian/.nuget/packages/microsoft.aspnetcore.cryptography.internal/8.0.7/microsoft.aspnetcore.cryptography.internal.8.0.7.nupkg.sha512",
